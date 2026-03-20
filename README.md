@@ -1,20 +1,31 @@
 # 我的个人项目汇总
 专注于后端/前端开发的项目合集，包含实战类管理系统开发，持续更新～
 
-## 📁 核心项目
-### 动物园管理系统
+## 📁 项目展示
+### 🦓 动物园管理系统
 | 项目信息 | 详情 |
 |---------|------|
 | 项目简介 | 基于【Spring Boot/JavaScript/Java】开发的动物园管理系统，实现动物档案管理、员工管理、动物喂养、园区管理，支持数据统计和权限管理。 |
 | 技术栈 | 【Spring Boot + MySQL + MyBatis-Plus + JavaScript】 |
 | 核心功能 | 1. 动物管理：新增/编辑/删除动物信息，记录健康状态；<br>2. 员工管理：员工信息维护、岗位分配、考勤统计；<br>3. 人员管理：管理多角色用户（管理员 / 饲养员 / 游客）的账号信息，支持用户增删改查与角色权限划分，不同角色对应不同操作权限，保障数据安全 |
-| 相关链接 | [源码](https://github.com/Claire-wujing/zoo-management-system) | [在线演示](替换成演示链接，没有则删除这部分) |
+| 相关链接 | [源码](https://github.com/Claire-wujing/zoo-management-system) | 
 
-### 其他项目（可选）
+### 🍔 宅急送外卖
+| 项目信息 | 详情 |
+|---------|------|
+| 项目简介 | 一款全流程外卖点餐解决方案，覆盖「用户点餐-商家接单-骑手配送-平台管理」核心链路，支持菜品分类、购物车、订单支付、状态追踪、数据统计等功能。|
+| 技术栈 | 【Spring Boot + Spring MVC + Spring Task + JWT + WebSocket+MySQL】 |
+| 核心功能 | 1. 用户端：菜品浏览,点餐下单,订单管理,支付对接；<br>2. 商家端：菜品管理,订单处理,数据统计；<br>3. 管理员端：商户管理、骑手管理、系统配置|
+| 相关链接 | [源码](https://github.com/Claire-wujing/employee-management-system) | 
+### 其他项目
 | 项目名称 | 技术栈 | 源码链接 |
 |---------|--------|----------|
-| 待办清单小程序 | HTML + CSS + JavaScript | [源码](https://github.com/你的用户名/todo-list) |
-| 图书管理系统 | Python + Flask | [源码](https://github.com/你的用户名/book-management) |
+| 企业员工管理系统 | Spring MVC + MySQL + MyBatis | [源码](https://github.com/Claire-wujing/employee-management-system) |
+| 学生成绩管理系统 | Java | [源码](https://github.com/你的用户名/todo-list) |
+| 仿黑生化悟空前端项目 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
+| 仿天猫超市前端项目 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
+| 表情包生成器 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
+| 坦克小游戏 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
 
 ## 🏆 项目亮点（针对动物园管理系统）
 - 采用【分层架构/MVC架构】设计，代码结构清晰，易维护；
