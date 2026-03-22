@@ -16,16 +16,16 @@
 | 项目简介 | 一款全流程外卖点餐解决方案，覆盖【用户点餐-商家接单-骑手配送-平台管理】核心链路，支持菜品分类、购物车、订单支付、状态追踪、数据统计等功能。|
 | 技术栈 | 【Spring Boot + Spring MVC + Spring Task + JWT + WebSocket+MySQL】 |
 | 核心功能 | 1. 用户端：菜品浏览,点餐下单,订单管理,支付对接；<br>2. 商家端：菜品管理,订单处理,数据统计；<br>3. 管理员端：商户管理、骑手管理、系统配置|
-| 相关链接 | [源码](https://github.com/Claire-wujing/employee-management-system) | 
+| 相关链接 | [源码]() | 
 ### 其他项目
 | 项目名称 | 技术栈 | 源码链接 |
 |---------|--------|----------|
 | 企业员工管理系统 | Spring MVC + MySQL + MyBatis | [源码](https://github.com/Claire-wujing/employee-management-system) |
 | 学生成绩管理系统 | Java | [源码](https://github.com/你的用户名/todo-list) |
-| 仿黑生化悟空前端项目 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
-| 仿天猫超市前端项目 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
-| 表情包生成器 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
-| 坦克小游戏 | Python + Flask | [源码](https://github.com/你的用户名/book-management)|
+| 仿黑生化悟空前端项目 | Python + Flask | [源码](https://claire-wujing.github.io/wukong-frontend/)|
+| 仿天猫超市前端项目 | Python + Flask | [源码]()|
+| 表情包生成器 | Python + Flask | [源码]()|
+| 坦克小游戏 | Python + Flask | [源码]()|
 
 ## 🏆 项目亮点（针对动物园管理系统）
 - 采用【分层架构/MVC架构】设计，代码结构清晰，易维护；
