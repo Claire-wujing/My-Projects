@@ -25,7 +25,7 @@
 | 仿黑神话悟空前端项目 | Python + Flask | [源码](https://claire-wujing.github.io/wukong-frontend/)|
 | 仿天猫超市前端项目 | Python + Flask | [源码](https://claire-wujing.github.io/tmall-supermarket/)|
 | 表情包生成器 | Python + Flask | [源码]()|
-| 坦克小游戏 | Python + Flask | [源码]()|
+| 坦克小游戏 | Python + Flask | [源码](https://claire-wujing.github.io/tank-game/)|
 
 ## 🏆 项目亮点（针对动物园管理系统）
 - 采用【分层架构/MVC架构】设计，代码结构清晰，易维护；
