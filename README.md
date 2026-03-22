@@ -22,7 +22,7 @@
 |---------|--------|----------|
 | 企业员工管理系统 | Spring MVC + MySQL + MyBatis | [源码](https://github.com/Claire-wujing/employee-management-system) |
 | 学生成绩管理系统 | Java | [源码](https://github.com/Claire-wujing/employee-management-system) |
-| 仿黑生化悟空前端项目 | Python + Flask | [源码](https://claire-wujing.github.io/wukong-frontend/)|
+| 仿黑神话悟空前端项目 | Python + Flask | [源码](https://claire-wujing.github.io/wukong-frontend/)|
 | 仿天猫超市前端项目 | Python + Flask | [源码]()|
 | 表情包生成器 | Python + Flask | [源码]()|
 | 坦克小游戏 | Python + Flask | [源码]()|
